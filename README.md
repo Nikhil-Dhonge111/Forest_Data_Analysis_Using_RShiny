@@ -1,4 +1,6 @@
 # Exploratory Analysis of Forest Data in India using R Shiny
+![image](https://github.com/Nikhil-Dhonge111/Forest_Data_Analysis_Using_RShiny/assets/146107579/0b5b3fae-e208-4c24-89c0-dca1ef23159d)
+
 ![image](https://github.com/Nikhil-Dhonge111/Forest_Data_Analysis_Using_RShiny/assets/146107579/93457e42-3d5f-45f6-9fe3-d16653ad770e)
 
 Dataset : https://frienvis.nic.in/Database/Forest-Cover-in-States-UTs-2019_2478.aspx
@@ -16,3 +18,4 @@ The primary objective of this R Shiny project is to conduct an in-depth explorat
 ![image](https://github.com/Nikhil-Dhonge111/Forest_Data_Analysis_Using_RShiny/assets/146107579/b86c44bc-c303-49dc-9930-22d38e0c286d)
 ![image](https://github.com/Nikhil-Dhonge111/Forest_Data_Analysis_Using_RShiny/assets/146107579/315f952b-7ad2-46d3-a175-5d581f93e44f)
 
+![image](https://github.com/Nikhil-Dhonge111/Forest_Data_Analysis_Using_RShiny/assets/146107579/cb936f7a-8e74-49a3-9bf9-ef1c2269231a)
