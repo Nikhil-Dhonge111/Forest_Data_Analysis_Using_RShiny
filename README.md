@@ -57,6 +57,6 @@ This tab includes a choropleth map that shows the distribution of the selected f
 4. Run the Shiny app by executing shiny::runApp("path/to/cloned/repository") in R console.
   
 **Connect with Me**
-- If you have any questions or suggestions, feel free to connect with me on LinkedIn.
+If you have any questions or suggestions, feel free to connect with me on LinkedIn.
 
 *Feel free to explore the dataset and gain valuable insights into the forest cover in different regions of India. If you encounter any issues or have suggestions for improvement, please open an issue in the GitHub repository. Happy analyzing!*
