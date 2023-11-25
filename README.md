@@ -4,6 +4,10 @@ The primary objective of this R Shiny project is to conduct an in-depth explorat
 
 
 
+https://github.com/Nikhil-Dhonge111/Forest_Data_Analysis_Using_RShiny/assets/146107579/81f44c19-829e-4c13-8a6e-fdbe8b55aa80
+
+
+
 **Overview :**
 This project focuses on the analysis of forest cover in different Indian states and Union Territories using data sourced from [FRIENVIS](https://frienvis.nic.in/Database/Forest-Cover-in-States-UTs-2019_2478.aspx). The dataset includes information on various types of forests such as Very Dense Forest, Moderately Dense Forest, Open Forest, Total Forest and Scrub.
 ![image](https://github.com/Nikhil-Dhonge111/Forest_Data_Analysis_Using_RShiny/assets/146107579/0b5b3fae-e208-4c24-89c0-dca1ef23159d)
